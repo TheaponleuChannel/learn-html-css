@@ -6,17 +6,17 @@
 
 ### HTML
 
-1. [ការណែនាំអំពី HTML](html/introduction.md)
-2. [មូលដ្ឋានគ្រឹះ HTML](html/basic.md)
-3. [HTML Elements](html/element.md)
-4. [HTML Attributes](html/attribute.md)
-5. [HTML Headings and Paragraphs](html/heading-paragraph.md)
-6. [HTML Formatting](html/formatting.md)
-7. [HTML Style](html/style.md)
+1. [ការណែនាំអំពី HTML](html/01.introduction.md)
+2. [មូលដ្ឋានគ្រឹះ HTML](html/02.basic.md)
+3. [HTML Elements](html/03.element.md)
+4. [HTML Attributes](html/04.attribute.md)
+5. [HTML Style](html/05.style.md)
+6. [HTML Headings and Paragraphs](html/06.heading-paragraph.md)
+7. [HTML Formatting](html/07.formatting.md)
 
 ### CSS
 
-1. [ការណែនាំអំពី CSS](css/introduction.md)
+1. [ការណែនាំអំពី CSS](css/01.introduction.md)
 
 ## លំដាប់នៃការរៀន
 
